@@ -1,0 +1,29 @@
+{
+  "best_model": "LogisticRegression",
+  "needs_scaler": true,
+  "feature_cols": [
+    "rank_diff",
+    "elo_diff",
+    "attack_diff",
+    "midfield_diff",
+    "defense_diff",
+    "form_diff"
+  ],
+  "comparison": {
+    "LogisticRegression": {
+      "accuracy": 0.6075,
+      "log_loss": 0.8786527424619607,
+      "f1": 0.44842754375863764
+    },
+    "RandomForest": {
+      "accuracy": 0.5966666666666667,
+      "log_loss": 0.8833530072560586,
+      "f1": 0.4512819742567866
+    },
+    "XGBoost": {
+      "accuracy": 0.5691666666666667,
+      "log_loss": 0.9169199141608195,
+      "f1": 0.447869364984865
+    }
+  }
+}
