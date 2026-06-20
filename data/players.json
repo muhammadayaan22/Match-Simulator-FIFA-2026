@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 1,
+    "name": "Mateo Fernandez",
+    "team": "Argentina",
+    "position": "GK",
+    "goals": 0,
+    "assists": 7,
+    "appearances": 95,
+    "rating": 7.5
+  },
+  {
+    "id": 2,
+    "name": "Diego Costa",
+    "team": "Argentina",
+    "position": "DF",
+    "goals": 1,
+    "assists": 6,
+    "appearances": 51,
+    "rating": 7.5
+  },
+  {
+    "id": 3,
+    "name": "Felix Fernandez",
+    "team": "Argentina",
+    "position": "MF",
+    "goals": 11,
+    "assists": 7,
+    "appearances": 36,
+    "rating": 7.5
+  },
+  {
+    "id": 4,
+    "name": "Liam Nasser",
+    "team": "Argentina",
+    "position": "FW",
+    "goals": 3,
+    "assists": 5,
+    "appearances": 58,
+    "rating": 7.2
+  },
+  {
+    "id": 5,
+    "name": "Kwame Garcia",
+    "team": "Argentina",
+    "position": "FW",
+    "goals": 11,
+    "assists": 6,
+    "appearances": 39,
+    "rating": 7.9
+  },
+  {
+    "id": 6,
+    "name": "Mateo Schmidt",
+    "team": "France",
+    "position": "GK",
+    "goals": 0,
+    "assists": 7,
+    "appearances": 95,
+    "rating": 7.8
+  },
+  {
+    "id": 7,
+    "name": "Theo Haddad",
+    "team": "France",
+    "position": "DF",
+    "goals": 0,
+    "assists": 3,
+    "appearances": 30,
+    "rating": 7.3
+  },
+  {
+    "id": 8,
+    "name": "Mateo Larsen",
+    "team": "France",
+    "position": "MF",
+    "goals": 7,
+    "assists": 3,
+    "appearances": 77,
+    "rating": 8.0
+  },
+  {
+    "id": 9,
+    "name": "Carlos Smith",
+    "team": "France",
+    "position": "FW",
+    "goals": 10,
+    "assists": 6,
+    "appearances": 77,
+    "rating": 7.3
+  },
+  {
+    "id": 10,
+    "name": "Erik Fernandez",
+    "team": "France",
+    "position": "FW",
+    "goals": 13,
+    "assists": 8,
+    "appearances": 77,
+    "rating": 8.0
+  },
+  {
+    "id": 11,
+    "name": "Lucas Larsen",
+    "team": "Spain",
+    "position": "GK",
+    "goals": 0,
+    "assists": 4,
+    "appearances": 29,
+    "rating": 7.3
+  },
+  {
+    "id": 12,
+    "name": "Erik Silva",
+    "team": "Spain",
+    "position": "DF",
+    "goals": 3,
+    "assists": 4,
+    "appearances": 54,
+    "rating": 7.4
+  },
+  {
+    "id": 13,
+    "name": "Diego Dubois",
+    "team": "Spain",
+    "position": "MF",
+    "goals": 6,
+    "assists": 5,
+    "appearances": 33,
+    "rating": 8.0
+  },
+  {
+    "id": 14,
+    "name": "Bilal Silva",
+    "team": "Spain",
+    "position": "FW",
+    "goals": 9,
+    "assists": 7,
+    "appearances": 93,
+    "rating": 8.0
+  },
+  {
+    "id": 15,
+    "name": "Luca Tanaka",
+    "team": "Spain",
+    "position": "FW",
+    "goals": 9,
+    "assists": 3,
+    "appearances": 58,
+    "rating": 7.2
+  },
+  {
+    "id": 16,
+    "name": "Felix Tanaka",
+    "team": "England",
+    "position": "GK",
+    "goals": 3,
+    "assists": 4,
+    "appearances": 65,
+    "rating": 7.7
+  },
+  {
+    "id": 17,
+    "name": "Carlos Haddad",
+    "team": "England",
+    "position": "DF",
+    "goals": 1,
+    "assists": 3,
+    "appearances": 80,
+    "rating": 7.4
+  },
+  {
+    "id": 18,
+    "name": "Bilal Tanaka",
+    "team": "England",
+    "position": "MF",
+    "goals": 6,
+    "assists": 7,
+    "appearances": 67,
+    "rating": 7.3
+  },
+  {
+    "id": 19,
+    "name": "Bilal Lopez",
+    "team": "England",
+    "position": "FW",
+    "goals": 12,
+    "assists": 6,
+    "appearances": 77,
+    "rating": 7.9
+  },
+  {
+    "id": 20,
+    "name": "Andres Smith",
+    "team": "England",
+    "position": "FW",
+    "goals": 7,
+    "assists": 3,
+    "appearances": 78,
+    "rating": 7.9
+  },
+  {
+    "id": 21,
+    "name": "Noah M\u00fcller",
+    "team": "Brazil",
+    "position": "GK",
+    "goals": 2,
+    "assists": 5,
+    "appearances": 25,
+    "rating": 7.8
+  },
+  {
+    "id": 22,
+    "name": "Omar Nasser",
+    "team": "Brazil",
+    "position": "DF",
+    "goals": 3,
+    "assists": 5,
+    "appearances": 66,
+    "rating": 7.2
+  },
+  {
+    "id": 23,
+    "name": "Kwame M\u00fcller",
+    "team": "Brazil",
+    "position": "MF",
+    "goals": 9,
+    "assists": 5,
+    "appearances": 46,
+    "rating": 7.6
+  },
+  {
+    "id": 24,
+    "name": "Erik M\u00fcller",
+    "team": "Brazil",
+    "position": "FW",
+    "goals": 9,
+    "assists": 6,
+    "appearances": 36,
+    "rating": 7.7
+  },
+  {
+    "id": 25,
+    "name": "Erik Costa",
+    "team": "Brazil",
+    "position": "FW",
+    "goals": 9,
+    "assists": 3,
+    "appearances": 30,
+    "rating": 7.2
+  },
+  {
+    "id": 26,
+    "name": "Andres Costa",
+    "team": "Portugal",
+    "position": "GK",
+    "goals": 0,
+    "assists": 5,
+    "appearances": 49,
+    "rating": 7.6
+  },
+  {
+    "id": 27,
+    "name": "Hiro Schmidt",
+    "team": "Portugal",
+    "position": "DF",
+    "goals": 1,
+    "assists": 3,
+    "appearances": 25,
+    "rating": 7.4
+  },
+  {
+    "id": 28,
+    "name": "Omar Rossi",
+    "team": "Portugal",
+    "position": "MF",
+    "goals": 4,
+    "assists": 6,
+    "appearances": 91,
+    "rating": 7.1
+  },
+  {
+    "id": 29,
+    "name": "Mateo Nasser",
+    "team": "Portugal",
+    "position": "FW",
+    "goals": 5,
+    "assists": 7,
+    "appearances": 83,
+    "rating": 7.5
+  },
+  {
+    "id": 30,
+    "name": "Omar Schmidt",
+    "team": "Portugal",
+    "position": "FW",
+    "goals": 8,
+    "assists": 6,
+    "appearances": 65,
+    "rating": 7.7
+  },
+  {
+    "id": 31,
+    "name": "Omar Fernandez",
+    "team": "Netherlands",
+    "position": "GK",
+    "goals": 3,
+    "assists": 7,
+    "appearances": 85,
+    "rating": 7.5
+  },
+  {
+    "id": 32,
+    "name": "Lucas Larsen",
+    "team": "Netherlands",
+    "position": "DF",
+    "goals": 1,
+    "assists": 8,
+    "appearances": 60,
+    "rating": 7.9
+  },
+  {
+    "id": 33,
+    "name": "Diego Khan",
+    "team": "Netherlands",
+    "position": "MF",
+    "goals": 6,
+    "assists": 5,
+    "appearances": 55,
+    "rating": 7.2
+  },
+  {
+    "id": 34,
+    "name": "Erik Lopez",
+    "team": "Netherlands",
+    "position": "FW",
+    "goals": 9,
+    "assists": 2,
+    "appearances": 44,
+    "rating": 7.3
+  },
+  {
+    "id": 35,
+    "name": "Felix Khan",
+    "team": "Netherlands",
+    "position": "FW",
+    "goals": 5,
+    "assists": 4,
+    "appearances": 78,
+    "rating": 7.8
+  },
+  {
+    "id": 36,
+    "name": "Felix Lopez",
+    "team": "Belgium",
+    "position": "GK",
+    "goals": 3,
+    "assists": 4,
+    "appearances": 51,
+    "rating": 7.4
+  },
+  {
+    "id": 37,
+    "name": "Lucas Silva",
+    "team": "Belgium",
+    "position": "DF",
+    "goals": 0,
+    "assists": 7,
+    "appearances": 73,
+    "rating": 7.7
+  },
+  {
+    "id": 38,
+    "name": "Erik Costa",
+    "team": "Belgium",
+    "position": "MF",
+    "goals": 5,
+    "assists": 3,
+    "appearances": 78,
+    "rating": 7.1
+  },
+  {
+    "id": 39,
+    "name": "Bilal Lopez",
+    "team": "Belgium",
+    "position": "FW",
+    "goals": 4,
+    "assists": 3,
+    "appearances": 74,
+    "rating": 6.9
+  },
+  {
+    "id": 40,
+    "name": "Carlos Lopez",
+    "team": "Belgium",
+    "position": "FW",
+    "goals": 5,
+    "assists": 5,
+    "appearances": 41,
+    "rating": 7.6
+  },
+  {
+    "id": 41,
+    "name": "Mateo Nasser",
+    "team": "Germany",
+    "position": "GK",
+    "goals": 0,
+    "assists": 3,
+    "appearances": 79,
+    "rating": 7.5
+  },
+  {
+    "id": 42,
+    "name": "Youssef Nasser",
+    "team": "Germany",
+    "position": "DF",
+    "goals": 0,
+    "assists": 2,
+    "appearances": 66,
+    "rating": 6.9
+  },
+  {
+    "id": 43,
+    "name": "Felix Fernandez",
+    "team": "Germany",
+    "position": "MF",
+    "goals": 5,
+    "assists": 6,
+    "appearances": 60,
+    "rating": 7.2
+  },
+  {
+    "id": 44,
+    "name": "Theo Larsen",
+    "team": "Germany",
+    "position": "FW",
+    "goals": 5,
+    "assists": 4,
+    "appearances": 31,
+    "rating": 6.8
+  },
+  {
+    "id": 45,
+    "name": "Carlos Larsen",
+    "team": "Germany",
+    "position": "FW",
+    "goals": 4,
+    "assists": 8,
+    "appearances": 30,
+    "rating": 7.6
+  },
+  {
+    "id": 46,
+    "name": "Mateo Costa",
+    "team": "Italy",
+    "position": "GK",
+    "goals": 0,
+    "assists": 4,
+    "appearances": 55,
+    "rating": 6.9
+  },
+  {
+    "id": 47,
+    "name": "Omar Fernandez",
+    "team": "Italy",
+    "position": "DF",
+    "goals": 0,
+    "assists": 5,
+    "appearances": 52,
+    "rating": 7.5
+  },
+  {
+    "id": 48,
+    "name": "Liam M\u00fcller",
+    "team": "Italy",
+    "position": "MF",
+    "goals": 7,
+    "assists": 6,
+    "appearances": 39,
+    "rating": 7.7
+  },
+  {
+    "id": 49,
+    "name": "Andres Haddad",
+    "team": "Italy",
+    "position": "FW",
+    "goals": 5,
+    "assists": 5,
+    "appearances": 73,
+    "rating": 6.8
+  },
+  {
+    "id": 50,
+    "name": "Hiro M\u00fcller",
+    "team": "Italy",
+    "position": "FW",
+    "goals": 5,
+    "assists": 4,
+    "appearances": 56,
+    "rating": 6.8
+  },
+  {
+    "id": 51,
+    "name": "Theo Schmidt",
+    "team": "Croatia",
+    "position": "GK",
+    "goals": 0,
+    "assists": 6,
+    "appearances": 30,
+    "rating": 7.5
+  },
+  {
+    "id": 52,
+    "name": "Carlos Schmidt",
+    "team": "Croatia",
+    "position": "DF",
+    "goals": 2,
+    "assists": 2,
+    "appearances": 68,
+    "rating": 7.5
+  },
+  {
+    "id": 53,
+    "name": "Mateo Schmidt",
+    "team": "Croatia",
+    "position": "MF",
+    "goals": 4,
+    "assists": 6,
+    "appearances": 83,
+    "rating": 7.2
+  },
+  {
+    "id": 54,
+    "name": "Lucas Nasser",
+    "team": "Croatia",
+    "position": "FW",
+    "goals": 6,
+    "assists": 5,
+    "appearances": 59,
+    "rating": 6.8
+  },
+  {
+    "id": 55,
+    "name": "Erik Mensah",
+    "team": "Croatia",
+    "position": "FW",
+    "goals": 8,
+    "assists": 4,
+    "appearances": 66,
+    "rating": 7.2
+  },
+  {
+    "id": 56,
+    "name": "Andres Khan",
+    "team": "Morocco",
+    "position": "GK",
+    "goals": 3,
+    "assists": 2,
+    "appearances": 84,
+    "rating": 6.9
+  },
+  {
+    "id": 57,
+    "name": "Lucas Haddad",
+    "team": "Morocco",
+    "position": "DF",
+    "goals": 3,
+    "assists": 4,
+    "appearances": 48,
+    "rating": 6.6
+  },
+  {
+    "id": 58,
+    "name": "Carlos Haddad",
+    "team": "Morocco",
+    "position": "MF",
+    "goals": 8,
+    "assists": 3,
+    "appearances": 60,
+    "rating": 7.0
+  },
+  {
+    "id": 59,
+    "name": "Lucas Costa",
+    "team": "Morocco",
+    "position": "FW",
+    "goals": 3,
+    "assists": 3,
+    "appearances": 55,
+    "rating": 6.7
+  },
+  {
+    "id": 60,
+    "name": "Andres Larsen",
+    "team": "Morocco",
+    "position": "FW",
+    "goals": 8,
+    "assists": 2,
+    "appearances": 53,
+    "rating": 7.2
+  },
+  {
+    "id": 61,
+    "name": "Theo Schmidt",
+    "team": "Colombia",
+    "position": "GK",
+    "goals": 2,
+    "assists": 3,
+    "appearances": 92,
+    "rating": 6.8
+  },
+  {
+    "id": 62,
+    "name": "Diego M\u00fcller",
+    "team": "Colombia",
+    "position": "DF",
+    "goals": 2,
+    "assists": 4,
+    "appearances": 83,
+    "rating": 7.5
+  },
+  {
+    "id": 63,
+    "name": "Hiro Smith",
+    "team": "Colombia",
+    "position": "MF",
+    "goals": 4,
+    "assists": 4,
+    "appearances": 65,
+    "rating": 6.8
+  },
+  {
+    "id": 64,
+    "name": "Noah Tanaka",
+    "team": "Colombia",
+    "position": "FW",
+    "goals": 3,
+    "assists": 3,
+    "appearances": 92,
+    "rating": 6.8
+  },
+  {
+    "id": 65,
+    "name": "Carlos Garcia",
+    "team": "Colombia",
+    "position": "FW",
+    "goals": 4,
+    "assists": 3,
+    "appearances": 63,
+    "rating": 6.8
+  },
+  {
+    "id": 66,
+    "name": "Noah Garcia",
+    "team": "Uruguay",
+    "position": "GK",
+    "goals": 0,
+    "assists": 5,
+    "appearances": 95,
+    "rating": 6.8
+  },
+  {
+    "id": 67,
+    "name": "Noah Costa",
+    "team": "Uruguay",
+    "position": "DF",
+    "goals": 3,
+    "assists": 2,
+    "appearances": 26,
+    "rating": 7.3
+  },
+  {
+    "id": 68,
+    "name": "Diego Costa",
+    "team": "Uruguay",
+    "position": "MF",
+    "goals": 5,
+    "assists": 2,
+    "appearances": 31,
+    "rating": 7.0
+  },
+  {
+    "id": 69,
+    "name": "Luca Garcia",
+    "team": "Uruguay",
+    "position": "FW",
+    "goals": 5,
+    "assists": 2,
+    "appearances": 34,
+    "rating": 6.5
+  },
+  {
+    "id": 70,
+    "name": "Erik Tanaka",
+    "team": "Uruguay",
+    "position": "FW",
+    "goals": 6,
+    "assists": 4,
+    "appearances": 35,
+    "rating": 6.6
+  },
+  {
+    "id": 71,
+    "name": "Andres Nasser",
+    "team": "USA",
+    "position": "GK",
+    "goals": 3,
+    "assists": 4,
+    "appearances": 53,
+    "rating": 6.9
+  },
+  {
+    "id": 72,
+    "name": "Noah Rossi",
+    "team": "USA",
+    "position": "DF",
+    "goals": 2,
+    "assists": 5,
+    "appearances": 79,
+    "rating": 6.9
+  },
+  {
+    "id": 73,
+    "name": "Youssef Fernandez",
+    "team": "USA",
+    "position": "MF",
+    "goals": 9,
+    "assists": 2,
+    "appearances": 51,
+    "rating": 7.0
+  },
+  {
+    "id": 74,
+    "name": "Kwame Smith",
+    "team": "USA",
+    "position": "FW",
+    "goals": 3,
+    "assists": 3,
+    "appearances": 95,
+    "rating": 7.1
+  },
+  {
+    "id": 75,
+    "name": "Noah Rossi",
+    "team": "USA",
+    "position": "FW",
+    "goals": 3,
+    "assists": 2,
+    "appearances": 85,
+    "rating": 6.2
+  },
+  {
+    "id": 76,
+    "name": "Kwame Larsen",
+    "team": "Mexico",
+    "position": "GK",
+    "goals": 2,
+    "assists": 3,
+    "appearances": 83,
+    "rating": 6.5
+  },
+  {
+    "id": 77,
+    "name": "Erik Garcia",
+    "team": "Mexico",
+    "position": "DF",
+    "goals": 1,
+    "assists": 2,
+    "appearances": 94,
+    "rating": 6.6
+  },
+  {
+    "id": 78,
+    "name": "Noah M\u00fcller",
+    "team": "Mexico",
+    "position": "MF",
+    "goals": 6,
+    "assists": 1,
+    "appearances": 46,
+    "rating": 6.6
+  },
+  {
+    "id": 79,
+    "name": "Diego Costa",
+    "team": "Mexico",
+    "position": "FW",
+    "goals": 3,
+    "assists": 4,
+    "appearances": 76,
+    "rating": 6.8
+  },
+  {
+    "id": 80,
+    "name": "Bilal Fernandez",
+    "team": "Mexico",
+    "position": "FW",
+    "goals": 3,
+    "assists": 1,
+    "appearances": 80,
+    "rating": 6.8
+  },
+  {
+    "id": 81,
+    "name": "Diego Rossi",
+    "team": "Switzerland",
+    "position": "GK",
+    "goals": 0,
+    "assists": 1,
+    "appearances": 27,
+    "rating": 6.3
+  },
+  {
+    "id": 82,
+    "name": "Diego Smith",
+    "team": "Switzerland",
+    "position": "DF",
+    "goals": 1,
+    "assists": 4,
+    "appearances": 81,
+    "rating": 7.3
+  },
+  {
+    "id": 83,
+    "name": "Lucas Dubois",
+    "team": "Switzerland",
+    "position": "MF",
+    "goals": 5,
+    "assists": 5,
+    "appearances": 36,
+    "rating": 7.0
+  },
+  {
+    "id": 84,
+    "name": "Bilal Schmidt",
+    "team": "Switzerland",
+    "position": "FW",
+    "goals": 4,
+    "assists": 4,
+    "appearances": 45,
+    "rating": 6.8
+  },
+  {
+    "id": 85,
+    "name": "Luca Nasser",
+    "team": "Switzerland",
+    "position": "FW",
+    "goals": 6,
+    "assists": 5,
+    "appearances": 76,
+    "rating": 7.2
+  },
+  {
+    "id": 86,
+    "name": "Andres Silva",
+    "team": "Japan",
+    "position": "GK",
+    "goals": 2,
+    "assists": 2,
+    "appearances": 39,
+    "rating": 6.4
+  },
+  {
+    "id": 87,
+    "name": "Theo Costa",
+    "team": "Japan",
+    "position": "DF",
+    "goals": 3,
+    "assists": 4,
+    "appearances": 49,
+    "rating": 7.2
+  },
+  {
+    "id": 88,
+    "name": "Mateo M\u00fcller",
+    "team": "Japan",
+    "position": "MF",
+    "goals": 6,
+    "assists": 2,
+    "appearances": 59,
+    "rating": 7.2
+  },
+  {
+    "id": 89,
+    "name": "Erik Smith",
+    "team": "Japan",
+    "position": "FW",
+    "goals": 8,
+    "assists": 3,
+    "appearances": 28,
+    "rating": 6.9
+  },
+  {
+    "id": 90,
+    "name": "Erik Tanaka",
+    "team": "Japan",
+    "position": "FW",
+    "goals": 5,
+    "assists": 3,
+    "appearances": 36,
+    "rating": 6.7
+  },
+  {
+    "id": 91,
+    "name": "Lucas M\u00fcller",
+    "team": "Senegal",
+    "position": "GK",
+    "goals": 0,
+    "assists": 4,
+    "appearances": 44,
+    "rating": 6.9
+  },
+  {
+    "id": 92,
+    "name": "Lucas Larsen",
+    "team": "Senegal",
+    "position": "DF",
+    "goals": 2,
+    "assists": 3,
+    "appearances": 86,
+    "rating": 7.0
+  },
+  {
+    "id": 93,
+    "name": "Mateo Mensah",
+    "team": "Senegal",
+    "position": "MF",
+    "goals": 6,
+    "assists": 3,
+    "appearances": 90,
+    "rating": 6.9
+  },
+  {
+    "id": 94,
+    "name": "Diego Silva",
+    "team": "Senegal",
+    "position": "FW",
+    "goals": 6,
+    "assists": 4,
+    "appearances": 68,
+    "rating": 6.6
+  },
+  {
+    "id": 95,
+    "name": "Mateo Nasser",
+    "team": "Senegal",
+    "position": "FW",
+    "goals": 5,
+    "assists": 4,
+    "appearances": 87,
+    "rating": 6.6
+  },
+  {
+    "id": 96,
+    "name": "Andres Nasser",
+    "team": "Denmark",
+    "position": "GK",
+    "goals": 3,
+    "assists": 3,
+    "appearances": 95,
+    "rating": 6.9
+  },
+  {
+    "id": 97,
+    "name": "Andres Larsen",
+    "team": "Denmark",
+    "position": "DF",
+    "goals": 1,
+    "assists": 4,
+    "appearances": 55,
+    "rating": 6.7
+  },
+  {
+    "id": 98,
+    "name": "Andres Lopez",
+    "team": "Denmark",
+    "position": "MF",
+    "goals": 6,
+    "assists": 3,
+    "appearances": 85,
+    "rating": 7.3
+  },
+  {
+    "id": 99,
+    "name": "Lucas Rossi",
+    "team": "Denmark",
+    "position": "FW",
+    "goals": 8,
+    "assists": 4,
+    "appearances": 44,
+    "rating": 7.1
+  },
+  {
+    "id": 100,
+    "name": "Omar Tanaka",
+    "team": "Denmark",
+    "position": "FW",
+    "goals": 4,
+    "assists": 2,
+    "appearances": 37,
+    "rating": 6.4
+  },
+  {
+    "id": 101,
+    "name": "Felix Garcia",
+    "team": "Ecuador",
+    "position": "GK",
+    "goals": 3,
+    "assists": 1,
+    "appearances": 43,
+    "rating": 6.8
+  },
+  {
+    "id": 102,
+    "name": "Bilal Lopez",
+    "team": "Ecuador",
+    "position": "DF",
+    "goals": 3,
+    "assists": 2,
+    "appearances": 58,
+    "rating": 6.1
+  },
+  {
+    "id": 103,
+    "name": "Andres Khan",
+    "team": "Ecuador",
+    "position": "MF",
+    "goals": 3,
+    "assists": 3,
+    "appearances": 93,
+    "rating": 6.9
+  },
+  {
+    "id": 104,
+    "name": "Luca Mensah",
+    "team": "Ecuador",
+    "position": "FW",
+    "goals": 7,
+    "assists": 4,
+    "appearances": 94,
+    "rating": 6.9
+  },
+  {
+    "id": 105,
+    "name": "Kwame Schmidt",
+    "team": "Ecuador",
+    "position": "FW",
+    "goals": 4,
+    "assists": 3,
+    "appearances": 54,
+    "rating": 6.3
+  },
+  {
+    "id": 106,
+    "name": "Carlos Rossi",
+    "team": "Iran",
+    "position": "GK",
+    "goals": 0,
+    "assists": 1,
+    "appearances": 63,
+    "rating": 6.1
+  },
+  {
+    "id": 107,
+    "name": "Felix Garcia",
+    "team": "Iran",
+    "position": "DF",
+    "goals": 0,
+    "assists": 2,
+    "appearances": 72,
+    "rating": 6.4
+  },
+  {
+    "id": 108,
+    "name": "Liam Smith",
+    "team": "Iran",
+    "position": "MF",
+    "goals": 3,
+    "assists": 2,
+    "appearances": 48,
+    "rating": 6.3
+  },
+  {
+    "id": 109,
+    "name": "Lucas Garcia",
+    "team": "Iran",
+    "position": "FW",
+    "goals": 3,
+    "assists": 1,
+    "appearances": 55,
+    "rating": 6.1
+  },
+  {
+    "id": 110,
+    "name": "Carlos Nasser",
+    "team": "Iran",
+    "position": "FW",
+    "goals": 3,
+    "assists": 1,
+    "appearances": 57,
+    "rating": 6.3
+  },
+  {
+    "id": 111,
+    "name": "Noah Schmidt",
+    "team": "South Korea",
+    "position": "GK",
+    "goals": 1,
+    "assists": 1,
+    "appearances": 69,
+    "rating": 6.4
+  },
+  {
+    "id": 112,
+    "name": "Youssef Lopez",
+    "team": "South Korea",
+    "position": "DF",
+    "goals": 2,
+    "assists": 3,
+    "appearances": 63,
+    "rating": 7.0
+  },
+  {
+    "id": 113,
+    "name": "Noah M\u00fcller",
+    "team": "South Korea",
+    "position": "MF",
+    "goals": 3,
+    "assists": 2,
+    "appearances": 70,
+    "rating": 6.7
+  },
+  {
+    "id": 114,
+    "name": "Carlos Rossi",
+    "team": "South Korea",
+    "position": "FW",
+    "goals": 4,
+    "assists": 2,
+    "appearances": 60,
+    "rating": 6.1
+  },
+  {
+    "id": 115,
+    "name": "Erik Dubois",
+    "team": "South Korea",
+    "position": "FW",
+    "goals": 6,
+    "assists": 4,
+    "appearances": 61,
+    "rating": 6.8
+  },
+  {
+    "id": 116,
+    "name": "Hiro Rossi",
+    "team": "Austria",
+    "position": "GK",
+    "goals": 1,
+    "assists": 2,
+    "appearances": 42,
+    "rating": 6.3
+  },
+  {
+    "id": 117,
+    "name": "Mateo Mensah",
+    "team": "Austria",
+    "position": "DF",
+    "goals": 3,
+    "assists": 1,
+    "appearances": 71,
+    "rating": 6.4
+  },
+  {
+    "id": 118,
+    "name": "Mateo Dubois",
+    "team": "Austria",
+    "position": "MF",
+    "goals": 3,
+    "assists": 2,
+    "appearances": 50,
+    "rating": 6.4
+  },
+  {
+    "id": 119,
+    "name": "Diego Costa",
+    "team": "Austria",
+    "position": "FW",
+    "goals": 5,
+    "assists": 2,
+    "appearances": 46,
+    "rating": 6.8
+  },
+  {
+    "id": 120,
+    "name": "Omar Mensah",
+    "team": "Austria",
+    "position": "FW",
+    "goals": 5,
+    "assists": 6,
+    "appearances": 39,
+    "rating": 7.1
+  },
+  {
+    "id": 121,
+    "name": "Theo Mensah",
+    "team": "Australia",
+    "position": "GK",
+    "goals": 1,
+    "assists": 2,
+    "appearances": 75,
+    "rating": 6.0
+  },
+  {
+    "id": 122,
+    "name": "Hiro Nasser",
+    "team": "Australia",
+    "position": "DF",
+    "goals": 3,
+    "assists": 1,
+    "appearances": 93,
+    "rating": 6.9
+  },
+  {
+    "id": 123,
+    "name": "Theo Tanaka",
+    "team": "Australia",
+    "position": "MF",
+    "goals": 4,
+    "assists": 2,
+    "appearances": 73,
+    "rating": 6.3
+  },
+  {
+    "id": 124,
+    "name": "Erik Mensah",
+    "team": "Australia",
+    "position": "FW",
+    "goals": 3,
+    "assists": 1,
+    "appearances": 66,
+    "rating": 6.7
+  },
+  {
+    "id": 125,
+    "name": "Felix Tanaka",
+    "team": "Australia",
+    "position": "FW",
+    "goals": 6,
+    "assists": 4,
+    "appearances": 63,
+    "rating": 6.7
+  },
+  {
+    "id": 126,
+    "name": "Lucas Tanaka",
+    "team": "Canada",
+    "position": "GK",
+    "goals": 0,
+    "assists": 2,
+    "appearances": 63,
+    "rating": 6.1
+  },
+  {
+    "id": 127,
+    "name": "Andres Nasser",
+    "team": "Canada",
+    "position": "DF",
+    "goals": 1,
+    "assists": 2,
+    "appearances": 42,
+    "rating": 6.0
+  },
+  {
+    "id": 128,
+    "name": "Felix Garcia",
+    "team": "Canada",
+    "position": "MF",
+    "goals": 4,
+    "assists": 3,
+    "appearances": 94,
+    "rating": 6.3
+  },
+  {
+    "id": 129,
+    "name": "Diego Rossi",
+    "team": "Canada",
+    "position": "FW",
+    "goals": 4,
+    "assists": 3,
+    "appearances": 77,
+    "rating": 6.4
+  },
+  {
+    "id": 130,
+    "name": "Theo Tanaka",
+    "team": "Canada",
+    "position": "FW",
+    "goals": 4,
+    "assists": 3,
+    "appearances": 55,
+    "rating": 6.8
+  },
+  {
+    "id": 131,
+    "name": "Luca Lopez",
+    "team": "Tunisia",
+    "position": "GK",
+    "goals": 2,
+    "assists": 3,
+    "appearances": 70,
+    "rating": 6.7
+  },
+  {
+    "id": 132,
+    "name": "Kwame Haddad",
+    "team": "Tunisia",
+    "position": "DF",
+    "goals": 1,
+    "assists": 3,
+    "appearances": 83,
+    "rating": 6.2
+  },
+  {
+    "id": 133,
+    "name": "Bilal Larsen",
+    "team": "Tunisia",
+    "position": "MF",
+    "goals": 5,
+    "assists": 5,
+    "appearances": 31,
+    "rating": 6.7
+  },
+  {
+    "id": 134,
+    "name": "Youssef Haddad",
+    "team": "Tunisia",
+    "position": "FW",
+    "goals": 3,
+    "assists": 1,
+    "appearances": 95,
+    "rating": 6.0
+  },
+  {
+    "id": 135,
+    "name": "Diego Garcia",
+    "team": "Tunisia",
+    "position": "FW",
+    "goals": 2,
+    "assists": 1,
+    "appearances": 25,
+    "rating": 6.1
+  },
+  {
+    "id": 136,
+    "name": "Carlos Garcia",
+    "team": "Algeria",
+    "position": "GK",
+    "goals": 2,
+    "assists": 2,
+    "appearances": 39,
+    "rating": 6.0
+  },
+  {
+    "id": 137,
+    "name": "Bilal Silva",
+    "team": "Algeria",
+    "position": "DF",
+    "goals": 2,
+    "assists": 1,
+    "appearances": 55,
+    "rating": 6.0
+  },
+  {
+    "id": 138,
+    "name": "Hiro Mensah",
+    "team": "Algeria",
+    "position": "MF",
+    "goals": 1,
+    "assists": 1,
+    "appearances": 78,
+    "rating": 6.0
+  },
+  {
+    "id": 139,
+    "name": "Omar Larsen",
+    "team": "Algeria",
+    "position": "FW",
+    "goals": 3,
+    "assists": 2,
+    "appearances": 38,
+    "rating": 6.4
+  },
+  {
+    "id": 140,
+    "name": "Noah Nasser",
+    "team": "Algeria",
+    "position": "FW",
+    "goals": 2,
+    "assists": 4,
+    "appearances": 91,
+    "rating": 6.6
+  },
+  {
+    "id": 141,
+    "name": "Andres Schmidt",
+    "team": "Egypt",
+    "position": "GK",
+    "goals": 0,
+    "assists": 1,
+    "appearances": 86,
+    "rating": 6.7
+  },
+  {
+    "id": 142,
+    "name": "Kwame Mensah",
+    "team": "Egypt",
+    "position": "DF",
+    "goals": 0,
+    "assists": 3,
+    "appearances": 81,
+    "rating": 6.7
+  },
+  {
+    "id": 143,
+    "name": "Bilal Lopez",
+    "team": "Egypt",
+    "position": "MF",
+    "goals": 3,
+    "assists": 1,
+    "appearances": 60,
+    "rating": 6.2
+  },
+  {
+    "id": 144,
+    "name": "Hiro Tanaka",
+    "team": "Egypt",
+    "position": "FW",
+    "goals": 4,
+    "assists": 3,
+    "appearances": 80,
+    "rating": 6.6
+  },
+  {
+    "id": 145,
+    "name": "Felix Nasser",
+    "team": "Egypt",
+    "position": "FW",
+    "goals": 5,
+    "assists": 4,
+    "appearances": 52,
+    "rating": 6.7
+  },
+  {
+    "id": 146,
+    "name": "Andres Schmidt",
+    "team": "Nigeria",
+    "position": "GK",
+    "goals": 3,
+    "assists": 1,
+    "appearances": 83,
+    "rating": 6.1
+  },
+  {
+    "id": 147,
+    "name": "Diego Dubois",
+    "team": "Nigeria",
+    "position": "DF",
+    "goals": 0,
+    "assists": 3,
+    "appearances": 65,
+    "rating": 6.8
+  },
+  {
+    "id": 148,
+    "name": "Kwame Mensah",
+    "team": "Nigeria",
+    "position": "MF",
+    "goals": 3,
+    "assists": 1,
+    "appearances": 36,
+    "rating": 6.0
+  },
+  {
+    "id": 149,
+    "name": "Luca Khan",
+    "team": "Nigeria",
+    "position": "FW",
+    "goals": 2,
+    "assists": 3,
+    "appearances": 41,
+    "rating": 6.4
+  },
+  {
+    "id": 150,
+    "name": "Luca M\u00fcller",
+    "team": "Nigeria",
+    "position": "FW",
+    "goals": 3,
+    "assists": 2,
+    "appearances": 79,
+    "rating": 6.7
+  },
+  {
+    "id": 151,
+    "name": "Youssef Garcia",
+    "team": "Ghana",
+    "position": "GK",
+    "goals": 2,
+    "assists": 2,
+    "appearances": 89,
+    "rating": 6.5
+  },
+  {
+    "id": 152,
+    "name": "Theo Dubois",
+    "team": "Ghana",
+    "position": "DF",
+    "goals": 3,
+    "assists": 2,
+    "appearances": 38,
+    "rating": 6.6
+  },
+  {
+    "id": 153,
+    "name": "Carlos Fernandez",
+    "team": "Ghana",
+    "position": "MF",
+    "goals": 2,
+    "assists": 1,
+    "appearances": 79,
+    "rating": 6.0
+  },
+  {
+    "id": 154,
+    "name": "Bilal Dubois",
+    "team": "Ghana",
+    "position": "FW",
+    "goals": 1,
+    "assists": 1,
+    "appearances": 64,
+    "rating": 6.0
+  },
+  {
+    "id": 155,
+    "name": "Kwame Garcia",
+    "team": "Ghana",
+    "position": "FW",
+    "goals": 1,
+    "assists": 0,
+    "appearances": 76,
+    "rating": 6.0
+  },
+  {
+    "id": 156,
+    "name": "Youssef Lopez",
+    "team": "Saudi Arabia",
+    "position": "GK",
+    "goals": 0,
+    "assists": 1,
+    "appearances": 92,
+    "rating": 6.6
+  },
+  {
+    "id": 157,
+    "name": "Noah Khan",
+    "team": "Saudi Arabia",
+    "position": "DF",
+    "goals": 3,
+    "assists": 1,
+    "appearances": 72,
+    "rating": 6.1
+  },
+  {
+    "id": 158,
+    "name": "Mateo Smith",
+    "team": "Saudi Arabia",
+    "position": "MF",
+    "goals": 7,
+    "assists": 3,
+    "appearances": 31,
+    "rating": 6.7
+  },
+  {
+    "id": 159,
+    "name": "Omar Schmidt",
+    "team": "Saudi Arabia",
+    "position": "FW",
+    "goals": 5,
+    "assists": 3,
+    "appearances": 59,
+    "rating": 6.7
+  },
+  {
+    "id": 160,
+    "name": "Hiro Dubois",
+    "team": "Saudi Arabia",
+    "position": "FW",
+    "goals": 3,
+    "assists": 2,
+    "appearances": 52,
+    "rating": 6.2
+  },
+  {
+    "id": 161,
+    "name": "Noah Rossi",
+    "team": "Qatar",
+    "position": "GK",
+    "goals": 0,
+    "assists": 1,
+    "appearances": 87,
+    "rating": 6.0
+  },
+  {
+    "id": 162,
+    "name": "Carlos Haddad",
+    "team": "Qatar",
+    "position": "DF",
+    "goals": 3,
+    "assists": 1,
+    "appearances": 32,
+    "rating": 6.0
+  },
+  {
+    "id": 163,
+    "name": "Noah Khan",
+    "team": "Qatar",
+    "position": "MF",
+    "goals": 3,
+    "assists": 1,
+    "appearances": 57,
+    "rating": 6.0
+  },
+  {
+    "id": 164,
+    "name": "Mateo Lopez",
+    "team": "Qatar",
+    "position": "FW",
+    "goals": 0,
+    "assists": 1,
+    "appearances": 47,
+    "rating": 6.0
+  },
+  {
+    "id": 165,
+    "name": "Kwame Lopez",
+    "team": "Qatar",
+    "position": "FW",
+    "goals": 4,
+    "assists": 2,
+    "appearances": 70,
+    "rating": 6.2
+  },
+  {
+    "id": 166,
+    "name": "Kwame Khan",
+    "team": "Panama",
+    "position": "GK",
+    "goals": 0,
+    "assists": 2,
+    "appearances": 83,
+    "rating": 6.4
+  },
+  {
+    "id": 167,
+    "name": "Noah Tanaka",
+    "team": "Panama",
+    "position": "DF",
+    "goals": 3,
+    "assists": 2,
+    "appearances": 78,
+    "rating": 6.2
+  },
+  {
+    "id": 168,
+    "name": "Theo Mensah",
+    "team": "Panama",
+    "position": "MF",
+    "goals": 1,
+    "assists": 1,
+    "appearances": 83,
+    "rating": 6.0
+  },
+  {
+    "id": 169,
+    "name": "Kwame Lopez",
+    "team": "Panama",
+    "position": "FW",
+    "goals": 3,
+    "assists": 1,
+    "appearances": 76,
+    "rating": 6.0
+  },
+  {
+    "id": 170,
+    "name": "Kwame Tanaka",
+    "team": "Panama",
+    "position": "FW",
+    "goals": 2,
+    "assists": 0,
+    "appearances": 46,
+    "rating": 6.0
+  },
+  {
+    "id": 171,
+    "name": "Theo Garcia",
+    "team": "Costa Rica",
+    "position": "GK",
+    "goals": 1,
+    "assists": 2,
+    "appearances": 69,
+    "rating": 6.1
+  },
+  {
+    "id": 172,
+    "name": "Liam Garcia",
+    "team": "Costa Rica",
+    "position": "DF",
+    "goals": 0,
+    "assists": 0,
+    "appearances": 50,
+    "rating": 6.0
+  },
+  {
+    "id": 173,
+    "name": "Omar Nasser",
+    "team": "Costa Rica",
+    "position": "MF",
+    "goals": 5,
+    "assists": 1,
+    "appearances": 88,
+    "rating": 6.5
+  },
+  {
+    "id": 174,
+    "name": "Bilal Garcia",
+    "team": "Costa Rica",
+    "position": "FW",
+    "goals": 5,
+    "assists": 2,
+    "appearances": 66,
+    "rating": 6.3
+  },
+  {
+    "id": 175,
+    "name": "Diego Rossi",
+    "team": "Costa Rica",
+    "position": "FW",
+    "goals": 1,
+    "assists": 1,
+    "appearances": 63,
+    "rating": 6.0
+  },
+  {
+    "id": 176,
+    "name": "Luca Rossi",
+    "team": "Jamaica",
+    "position": "GK",
+    "goals": 0,
+    "assists": 0,
+    "appearances": 82,
+    "rating": 6.0
+  },
+  {
+    "id": 177,
+    "name": "Andres Nasser",
+    "team": "Jamaica",
+    "position": "DF",
+    "goals": 2,
+    "assists": 0,
+    "appearances": 36,
+    "rating": 6.0
+  },
+  {
+    "id": 178,
+    "name": "Omar Haddad",
+    "team": "Jamaica",
+    "position": "MF",
+    "goals": 3,
+    "assists": 2,
+    "appearances": 30,
+    "rating": 6.1
+  },
+  {
+    "id": 179,
+    "name": "Omar Tanaka",
+    "team": "Jamaica",
+    "position": "FW",
+    "goals": 1,
+    "assists": 1,
+    "appearances": 32,
+    "rating": 6.0
+  },
+  {
+    "id": 180,
+    "name": "Liam Rossi",
+    "team": "Jamaica",
+    "position": "FW",
+    "goals": 5,
+    "assists": 2,
+    "appearances": 35,
+    "rating": 6.3
+  },
+  {
+    "id": 181,
+    "name": "Liam Dubois",
+    "team": "Paraguay",
+    "position": "GK",
+    "goals": 3,
+    "assists": 1,
+    "appearances": 92,
+    "rating": 6.0
+  },
+  {
+    "id": 182,
+    "name": "Luca Khan",
+    "team": "Paraguay",
+    "position": "DF",
+    "goals": 2,
+    "assists": 1,
+    "appearances": 68,
+    "rating": 6.0
+  },
+  {
+    "id": 183,
+    "name": "Noah Fernandez",
+    "team": "Paraguay",
+    "position": "MF",
+    "goals": 0,
+    "assists": 0,
+    "appearances": 74,
+    "rating": 6.0
+  },
+  {
+    "id": 184,
+    "name": "Bilal Mensah",
+    "team": "Paraguay",
+    "position": "FW",
+    "goals": 5,
+    "assists": 3,
+    "appearances": 44,
+    "rating": 6.4
+  },
+  {
+    "id": 185,
+    "name": "Andres Garcia",
+    "team": "Paraguay",
+    "position": "FW",
+    "goals": 3,
+    "assists": 3,
+    "appearances": 64,
+    "rating": 6.2
+  },
+  {
+    "id": 186,
+    "name": "Bilal Garcia",
+    "team": "Bolivia",
+    "position": "GK",
+    "goals": 0,
+    "assists": 0,
+    "appearances": 73,
+    "rating": 6.0
+  },
+  {
+    "id": 187,
+    "name": "Theo Silva",
+    "team": "Bolivia",
+    "position": "DF",
+    "goals": 0,
+    "assists": 1,
+    "appearances": 79,
+    "rating": 6.0
+  },
+  {
+    "id": 188,
+    "name": "Lucas Haddad",
+    "team": "Bolivia",
+    "position": "MF",
+    "goals": 0,
+    "assists": 0,
+    "appearances": 68,
+    "rating": 6.0
+  },
+  {
+    "id": 189,
+    "name": "Hiro Rossi",
+    "team": "Bolivia",
+    "position": "FW",
+    "goals": 0,
+    "assists": 0,
+    "appearances": 62,
+    "rating": 6.0
+  },
+  {
+    "id": 190,
+    "name": "Andres Garcia",
+    "team": "Bolivia",
+    "position": "FW",
+    "goals": 1,
+    "assists": 1,
+    "appearances": 41,
+    "rating": 6.0
+  },
+  {
+    "id": 191,
+    "name": "Omar Rossi",
+    "team": "Venezuela",
+    "position": "GK",
+    "goals": 1,
+    "assists": 0,
+    "appearances": 46,
+    "rating": 6.0
+  },
+  {
+    "id": 192,
+    "name": "Omar M\u00fcller",
+    "team": "Venezuela",
+    "position": "DF",
+    "goals": 2,
+    "assists": 1,
+    "appearances": 55,
+    "rating": 6.0
+  },
+  {
+    "id": 193,
+    "name": "Erik M\u00fcller",
+    "team": "Venezuela",
+    "position": "MF",
+    "goals": 4,
+    "assists": 2,
+    "appearances": 93,
+    "rating": 6.3
+  },
+  {
+    "id": 194,
+    "name": "Theo Nasser",
+    "team": "Venezuela",
+    "position": "FW",
+    "goals": 4,
+    "assists": 3,
+    "appearances": 49,
+    "rating": 6.3
+  },
+  {
+    "id": 195,
+    "name": "Felix Smith",
+    "team": "Venezuela",
+    "position": "FW",
+    "goals": 3,
+    "assists": 2,
+    "appearances": 89,
+    "rating": 6.0
+  },
+  {
+    "id": 196,
+    "name": "Lucas Dubois",
+    "team": "Ivory Coast",
+    "position": "GK",
+    "goals": 1,
+    "assists": 2,
+    "appearances": 31,
+    "rating": 6.0
+  },
+  {
+    "id": 197,
+    "name": "Hiro M\u00fcller",
+    "team": "Ivory Coast",
+    "position": "DF",
+    "goals": 0,
+    "assists": 3,
+    "appearances": 91,
+    "rating": 6.4
+  },
+  {
+    "id": 198,
+    "name": "Mateo Schmidt",
+    "team": "Ivory Coast",
+    "position": "MF",
+    "goals": 2,
+    "assists": 1,
+    "appearances": 90,
+    "rating": 6.0
+  },
+  {
+    "id": 199,
+    "name": "Theo Silva",
+    "team": "Ivory Coast",
+    "position": "FW",
+    "goals": 2,
+    "assists": 0,
+    "appearances": 82,
+    "rating": 6.0
+  },
+  {
+    "id": 200,
+    "name": "Andres Mensah",
+    "team": "Ivory Coast",
+    "position": "FW",
+    "goals": 1,
+    "assists": 2,
+    "appearances": 55,
+    "rating": 6.3
+  },
+  {
+    "id": 201,
+    "name": "Bilal Garcia",
+    "team": "South Africa",
+    "position": "GK",
+    "goals": 1,
+    "assists": 0,
+    "appearances": 37,
+    "rating": 6.0
+  },
+  {
+    "id": 202,
+    "name": "Mateo Costa",
+    "team": "South Africa",
+    "position": "DF",
+    "goals": 0,
+    "assists": 0,
+    "appearances": 85,
+    "rating": 6.0
+  },
+  {
+    "id": 203,
+    "name": "Diego Haddad",
+    "team": "South Africa",
+    "position": "MF",
+    "goals": 2,
+    "assists": 1,
+    "appearances": 27,
+    "rating": 6.0
+  },
+  {
+    "id": 204,
+    "name": "Felix Tanaka",
+    "team": "South Africa",
+    "position": "FW",
+    "goals": 0,
+    "assists": 0,
+    "appearances": 92,
+    "rating": 6.0
+  },
+  {
+    "id": 205,
+    "name": "Erik Schmidt",
+    "team": "South Africa",
+    "position": "FW",
+    "goals": 2,
+    "assists": 1,
+    "appearances": 31,
+    "rating": 6.2
+  },
+  {
+    "id": 206,
+    "name": "Carlos Larsen",
+    "team": "Cape Verde",
+    "position": "GK",
+    "goals": 3,
+    "assists": 0,
+    "appearances": 88,
+    "rating": 6.0
+  },
+  {
+    "id": 207,
+    "name": "Theo Larsen",
+    "team": "Cape Verde",
+    "position": "DF",
+    "goals": 1,
+    "assists": 1,
+    "appearances": 25,
+    "rating": 6.0
+  },
+  {
+    "id": 208,
+    "name": "Theo Mensah",
+    "team": "Cape Verde",
+    "position": "MF",
+    "goals": 1,
+    "assists": 1,
+    "appearances": 35,
+    "rating": 6.0
+  },
+  {
+    "id": 209,
+    "name": "Carlos Lopez",
+    "team": "Cape Verde",
+    "position": "FW",
+    "goals": 1,
+    "assists": 1,
+    "appearances": 89,
+    "rating": 6.0
+  },
+  {
+    "id": 210,
+    "name": "Diego Silva",
+    "team": "Cape Verde",
+    "position": "FW",
+    "goals": 0,
+    "assists": 0,
+    "appearances": 72,
+    "rating": 6.0
+  },
+  {
+    "id": 211,
+    "name": "Bilal Garcia",
+    "team": "Jordan",
+    "position": "GK",
+    "goals": 0,
+    "assists": 0,
+    "appearances": 38,
+    "rating": 6.0
+  },
+  {
+    "id": 212,
+    "name": "Omar Costa",
+    "team": "Jordan",
+    "position": "DF",
+    "goals": 2,
+    "assists": 0,
+    "appearances": 47,
+    "rating": 6.0
+  },
+  {
+    "id": 213,
+    "name": "Luca M\u00fcller",
+    "team": "Jordan",
+    "position": "MF",
+    "goals": 1,
+    "assists": 0,
+    "appearances": 83,
+    "rating": 6.0
+  },
+  {
+    "id": 214,
+    "name": "Bilal M\u00fcller",
+    "team": "Jordan",
+    "position": "FW",
+    "goals": 0,
+    "assists": 0,
+    "appearances": 30,
+    "rating": 6.0
+  },
+  {
+    "id": 215,
+    "name": "Diego Rossi",
+    "team": "Jordan",
+    "position": "FW",
+    "goals": 1,
+    "assists": 1,
+    "appearances": 85,
+    "rating": 6.0
+  },
+  {
+    "id": 216,
+    "name": "Bilal Fernandez",
+    "team": "Uzbekistan",
+    "position": "GK",
+    "goals": 1,
+    "assists": 1,
+    "appearances": 31,
+    "rating": 6.0
+  },
+  {
+    "id": 217,
+    "name": "Omar Lopez",
+    "team": "Uzbekistan",
+    "position": "DF",
+    "goals": 2,
+    "assists": 0,
+    "appearances": 76,
+    "rating": 6.0
+  },
+  {
+    "id": 218,
+    "name": "Theo Fernandez",
+    "team": "Uzbekistan",
+    "position": "MF",
+    "goals": 0,
+    "assists": 0,
+    "appearances": 88,
+    "rating": 6.0
+  },
+  {
+    "id": 219,
+    "name": "Liam M\u00fcller",
+    "team": "Uzbekistan",
+    "position": "FW",
+    "goals": 1,
+    "assists": 1,
+    "appearances": 80,
+    "rating": 6.0
+  },
+  {
+    "id": 220,
+    "name": "Noah Nasser",
+    "team": "Uzbekistan",
+    "position": "FW",
+    "goals": 0,
+    "assists": 0,
+    "appearances": 62,
+    "rating": 6.0
+  },
+  {
+    "id": 221,
+    "name": "Theo Nasser",
+    "team": "New Zealand",
+    "position": "GK",
+    "goals": 3,
+    "assists": 0,
+    "appearances": 81,
+    "rating": 6.0
+  },
+  {
+    "id": 222,
+    "name": "Diego Rossi",
+    "team": "New Zealand",
+    "position": "DF",
+    "goals": 2,
+    "assists": 0,
+    "appearances": 80,
+    "rating": 6.0
+  },
+  {
+    "id": 223,
+    "name": "Liam Silva",
+    "team": "New Zealand",
+    "position": "MF",
+    "goals": 0,
+    "assists": 0,
+    "appearances": 90,
+    "rating": 6.0
+  },
+  {
+    "id": 224,
+    "name": "Luca Garcia",
+    "team": "New Zealand",
+    "position": "FW",
+    "goals": 0,
+    "assists": 0,
+    "appearances": 81,
+    "rating": 6.0
+  },
+  {
+    "id": 225,
+    "name": "Andres Rossi",
+    "team": "New Zealand",
+    "position": "FW",
+    "goals": 0,
+    "assists": 0,
+    "appearances": 71,
+    "rating": 6.0
+  },
+  {
+    "id": 226,
+    "name": "Theo Nasser",
+    "team": "Haiti",
+    "position": "GK",
+    "goals": 1,
+    "assists": 0,
+    "appearances": 72,
+    "rating": 6.0
+  },
+  {
+    "id": 227,
+    "name": "Theo Lopez",
+    "team": "Haiti",
+    "position": "DF",
+    "goals": 0,
+    "assists": 1,
+    "appearances": 92,
+    "rating": 6.0
+  },
+  {
+    "id": 228,
+    "name": "Carlos Smith",
+    "team": "Haiti",
+    "position": "MF",
+    "goals": 0,
+    "assists": 0,
+    "appearances": 39,
+    "rating": 6.0
+  },
+  {
+    "id": 229,
+    "name": "Diego Fernandez",
+    "team": "Haiti",
+    "position": "FW",
+    "goals": 0,
+    "assists": 0,
+    "appearances": 40,
+    "rating": 6.0
+  },
+  {
+    "id": 230,
+    "name": "Lucas Haddad",
+    "team": "Haiti",
+    "position": "FW",
+    "goals": 1,
+    "assists": 1,
+    "appearances": 61,
+    "rating": 6.0
+  },
+  {
+    "id": 231,
+    "name": "Liam Nasser",
+    "team": "Curacao",
+    "position": "GK",
+    "goals": 1,
+    "assists": 0,
+    "appearances": 82,
+    "rating": 6.0
+  },
+  {
+    "id": 232,
+    "name": "Noah M\u00fcller",
+    "team": "Curacao",
+    "position": "DF",
+    "goals": 2,
+    "assists": 0,
+    "appearances": 33,
+    "rating": 6.0
+  },
+  {
+    "id": 233,
+    "name": "Theo Larsen",
+    "team": "Curacao",
+    "position": "MF",
+    "goals": 0,
+    "assists": 0,
+    "appearances": 47,
+    "rating": 6.0
+  },
+  {
+    "id": 234,
+    "name": "Lucas Silva",
+    "team": "Curacao",
+    "position": "FW",
+    "goals": 0,
+    "assists": 0,
+    "appearances": 55,
+    "rating": 6.0
+  },
+  {
+    "id": 235,
+    "name": "Mateo Mensah",
+    "team": "Curacao",
+    "position": "FW",
+    "goals": 0,
+    "assists": 0,
+    "appearances": 95,
+    "rating": 6.0
+  },
+  {
+    "id": 236,
+    "name": "Felix Schmidt",
+    "team": "Suriname",
+    "position": "GK",
+    "goals": 2,
+    "assists": 0,
+    "appearances": 86,
+    "rating": 6.0
+  },
+  {
+    "id": 237,
+    "name": "Kwame Nasser",
+    "team": "Suriname",
+    "position": "DF",
+    "goals": 0,
+    "assists": 0,
+    "appearances": 65,
+    "rating": 6.0
+  },
+  {
+    "id": 238,
+    "name": "Liam Garcia",
+    "team": "Suriname",
+    "position": "MF",
+    "goals": 0,
+    "assists": 0,
+    "appearances": 95,
+    "rating": 6.0
+  },
+  {
+    "id": 239,
+    "name": "Mateo M\u00fcller",
+    "team": "Suriname",
+    "position": "FW",
+    "goals": 0,
+    "assists": 0,
+    "appearances": 40,
+    "rating": 6.0
+  },
+  {
+    "id": 240,
+    "name": "Theo M\u00fcller",
+    "team": "Suriname",
+    "position": "FW",
+    "goals": 0,
+    "assists": 0,
+    "appearances": 53,
+    "rating": 6.0
+  }
+]
